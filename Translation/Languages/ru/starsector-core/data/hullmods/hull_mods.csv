@@ -10,7 +10,7 @@ name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hid
 
 Будет активно сражаться с противником и вообще вести себя как обычный боевой корабль.","Увеличивает прочность корпуса, броню и теплоемкость.",graphics/hullmods/assault_package.png
 Авторемонтная Установка,autorepair,2,,,"engines, defensive, merc",Защита,7500,,,,3,6,9,15,data.hullmods.AutomatedRepairUnit,Сокращает время необходимое для ремонта выведенного из строя оружия и двигателей (в бою) на %s.,Увеличивает скорость ремонта оружия в бою.,graphics/hullmods/automated_repair_unit.png
-Доп. Боковые Двигатели,auxiliarythrusters,1,,,"engines, merc",Двигатели,5000,TRUE,,,5,10,15,25,data.hullmods.AuxiliaryThrusters,Увеличивает маневренность корабля на %s.,Увеличивает маневренность.,graphics/hullmods/auxilliary_thrusters.png
+Маневровые Двигатели,auxiliarythrusters,1,,,"engines, merc",Двигатели,5000,TRUE,,,5,10,15,25,data.hullmods.AuxiliaryThrusters,Увеличивает маневренность корабля на %s.,Увеличивает маневренность.,graphics/hullmods/auxilliary_thrusters.png
 Баллистический дальномер,ballistic_rangefinder,2,,,"offensive, merc",Оружие,8000,,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.BallisticRangefinder,<всплывающая подсказка созданная в скрипте благодаря большому количеству подсветки>,Увеличивает базовую дальность малого и среднего оружия в баллистических слотах.,graphics/hullmods/ballistic_rangefinder.png
 Гермодвери,blast_doors,0,,,"defensive, merc",Защита,2500,TRUE,,,5,10,15,25,data.hullmods.BlastDoors,"Устанавливает дополнительные герметичные и усиленные двери в критических местах по всему кораблю. Увеличивает прочность корпуса на %s.
 
